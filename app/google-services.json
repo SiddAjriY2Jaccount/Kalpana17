@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "263384778655",
+    "firebase_url": "https://projecta3-1590f.firebaseio.com",
+    "project_id": "projecta3-1590f",
+    "storage_bucket": "projecta3-1590f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263384778655:android:9ed76087667dddc9",
+        "android_client_info": {
+          "package_name": "com.example.unmesh.kalpana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263384778655-16k68uj9fo5j5lnieo7aieovf09da1kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unmesh.kalpana",
+            "certificate_hash": "bb4115de9719e4b71fcef8bdf46cc18b9e30313e"
+          }
+        },
+        {
+          "client_id": "263384778655-o7fsfejm7rmesa4ceqe45iuhjffr53b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unmesh.kalpana",
+            "certificate_hash": "77a9968a6cfc2af9d3e6417698166019aae2253b"
+          }
+        },
+        {
+          "client_id": "263384778655-ao354oe3u6nugooc74bbn5455rfbqubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kmElmlWz9j8Spd3sSF2q7FRVE8janUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263384778655-ao354oe3u6nugooc74bbn5455rfbqubi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
